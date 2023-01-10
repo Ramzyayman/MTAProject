@@ -1,0 +1,512 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-01-10 19:56:15] File 'settings.xml' not present, creating new node.
+[2023-01-10 19:56:46] Resources: 193 loaded, 0 failed
+[2023-01-10 19:56:47] Starting resources...
+[2023-01-10 19:56:48] Admin access list successfully updated 
+[2023-01-10 19:56:48] INFO: Admin added 538 missing rights
+[2023-01-10 19:56:48] Server minclientversion is now 1.5.9-9.20957.0
+[2023-01-10 19:56:49] Gamemode 'play' started.
+[2023-01-10 19:56:49] Querying MTA master server... success! (Auto detected IP:156.223.66.190)
+[2023-01-10 19:56:49] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-01-10 19:56:49] WARNING: <owner_email_address> not set
+[2023-01-10 19:56:49] Server started and is ready to accept connections!
+[2023-01-10 19:56:49] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-01-10 19:56:49] Type 'help' for a list of commands.
+[2023-01-10 19:56:55] Server stopped!
+[2023-01-10 19:56:55] Stopping resources.......................
+[2023-01-10 19:56:55] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Revelator Development Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-01-10 20:13:10] Compacting accounts database 'internal.db' ...
+[2023-01-10 20:13:11] Resources: 1 loaded, 0 failed
+[2023-01-10 20:13:11] Compacting database 'registry.db' ...
+[2023-01-10 20:13:12] Starting resources....
+[2023-01-10 20:13:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-01-10 20:13:13] WARNING: <owner_email_address> not set
+[2023-01-10 20:13:13] Server started and is ready to accept connections!
+[2023-01-10 20:13:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-01-10 20:13:13] Type 'help' for a list of commands.
+[2023-01-10 20:13:13] Querying MTA master server... success! (Auto detected IP:156.223.66.190)
+[2023-01-10 20:13:35] Server minclientversion is now 1.5.9-9.21437.0
+[2023-01-10 20:13:35] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 20:13:52] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 20:13:52] WARNING: players\players.lua:8: Bad argument @ 'fadeCamera' [Expected element at argument 1, got nil]
+[2023-01-10 20:14:44] restart: Resource could not be found
+[2023-01-10 20:14:48] restart: Requested by Console
+[2023-01-10 20:14:48] restart: Resource restarting...
+[2023-01-10 20:14:48] Stopping players
+[2023-01-10 20:14:48] Resource 'players' changed, reloading and starting
+[2023-01-10 20:14:48] Starting players
+[2023-01-10 20:14:48] players restarted successfully
+[2023-01-10 20:14:55] QUIT: ramzy left the game [Quit]
+[2023-01-10 20:15:18] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 20:15:20] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 20:23:24] New resource 'vehicles' loaded
+[2023-01-10 20:23:24] Resources: 2 loaded, 0 failed
+[2023-01-10 20:23:26] start: Requested by Console
+[2023-01-10 20:23:26] Starting vehicles
+[2023-01-10 20:23:26] start: Resource 'vehicles' started
+[2023-01-10 20:24:22] QUIT: ramzy left the game [Quit]
+[2023-01-10 20:24:25] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 20:24:25] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 20:25:11] * Syntax: restart <resource-name>
+[2023-01-10 20:25:17] restart: Requested by Console
+[2023-01-10 20:25:17] restart: Resource restarting...
+[2023-01-10 20:25:17] Stopping players
+[2023-01-10 20:25:17] Resource 'players' changed, reloading and starting
+[2023-01-10 20:25:17] Starting players
+[2023-01-10 20:25:18] players restarted successfully
+[2023-01-10 20:25:20] restart: Requested by Console
+[2023-01-10 20:25:20] restart: Resource restarting...
+[2023-01-10 20:25:20] Stopping vehicles
+[2023-01-10 20:25:20] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 20:25:20] Starting vehicles
+[2023-01-10 20:25:20] vehicles restarted successfully
+[2023-01-10 20:25:31] QUIT: ramzy left the game [Quit]
+[2023-01-10 20:25:35] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 20:25:35] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 20:26:27] restart: Resource could not be found
+[2023-01-10 20:26:29] restart: Requested by Console
+[2023-01-10 20:26:29] restart: Resource restarting...
+[2023-01-10 20:26:29] Stopping players
+[2023-01-10 20:26:29] Resource 'players' changed, reloading and starting
+[2023-01-10 20:26:29] Starting players
+[2023-01-10 20:26:29] players restarted successfully
+[2023-01-10 20:26:33] QUIT: ramzy left the game [Quit]
+[2023-01-10 20:26:34] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 20:26:34] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 20:32:54] restart: Resource could not be found
+[2023-01-10 20:32:56] restart: Requested by Console
+[2023-01-10 20:32:56] restart: Resource restarting...
+[2023-01-10 20:32:56] Stopping vehicles
+[2023-01-10 20:32:56] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 20:32:56] Starting vehicles
+[2023-01-10 20:32:56] vehicles restarted successfully
+[2023-01-10 20:35:53] restart: Requested by Console
+[2023-01-10 20:35:53] restart: Resource restarting...
+[2023-01-10 20:35:53] Stopping vehicles
+[2023-01-10 20:35:53] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 20:35:53] Starting vehicles
+[2023-01-10 20:35:53] vehicles restarted successfully
+[2023-01-10 20:36:34] * Syntax: restart <resource-name>
+[2023-01-10 20:36:36] restart: Resource could not be found
+[2023-01-10 20:36:38] restart: Requested by Console
+[2023-01-10 20:36:38] restart: Resource restarting...
+[2023-01-10 20:36:38] Stopping vehicles
+[2023-01-10 20:36:38] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 20:36:38] Starting vehicles
+[2023-01-10 20:36:38] vehicles restarted successfully
+[2023-01-10 20:37:00] restart: Requested by Console
+[2023-01-10 20:37:00] restart: Resource restarting...
+[2023-01-10 20:37:00] Stopping vehicles
+[2023-01-10 20:37:00] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 20:37:00] Starting vehicles
+[2023-01-10 20:37:00] vehicles restarted successfully
+[2023-01-10 20:56:53] CHAT: ramzy: .
+[2023-01-10 21:13:58] New resource 'database' loaded
+[2023-01-10 21:13:58] Resources: 3 loaded, 0 failed
+[2023-01-10 21:15:26] QUIT: ramzy left the game [Quit]
+[2023-01-10 21:15:30] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2023-01-10 21:15:31] Server stopped!
+[2023-01-10 21:15:31] Stopping resources.....
+[2023-01-10 21:15:32] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Revelator Development Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-01-10 21:15:41] Resources: 3 loaded, 0 failed
+[2023-01-10 21:15:42] Starting resources......
+[2023-01-10 21:15:42] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-01-10 21:15:42] WARNING: <owner_email_address> not set
+[2023-01-10 21:15:42] Server started and is ready to accept connections!
+[2023-01-10 21:15:42] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-01-10 21:15:42] Type 'help' for a list of commands.
+[2023-01-10 21:15:42] Querying MTA master server... success! (Auto detected IP:156.223.66.190)
+[2023-01-10 21:15:53] Server minclientversion is now 1.5.9-9.21437.0
+[2023-01-10 21:15:53] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 21:16:13] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 21:17:36] ACL: Denied 'ramzy' access to command 'refresh'
+[2023-01-10 21:17:42] start: Requested by Console
+[2023-01-10 21:17:42] start: Resource is already running
+[2023-01-10 21:17:49] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2023-01-10 21:18:45] restart: Requested by Console
+[2023-01-10 21:18:45] restart: Resource restarting...
+[2023-01-10 21:18:45] Stopping vehicles
+[2023-01-10 21:18:45] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 21:18:45] Starting vehicles
+[2023-01-10 21:18:45] vehicles restarted successfully
+[2023-01-10 21:25:24] restart: Requested by Console
+[2023-01-10 21:25:24] restart: Resource restarting...
+[2023-01-10 21:25:24] Stopping vehicles
+[2023-01-10 21:25:24] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 21:25:24] Starting vehicles
+[2023-01-10 21:25:24] WARNING: vehicles\vehicles.lua:32: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-01-10 21:25:24] vehicles restarted successfully
+[2023-01-10 21:25:54] restart: Requested by Console
+[2023-01-10 21:25:54] restart: Resource restarting...
+[2023-01-10 21:25:54] Stopping vehicles
+[2023-01-10 21:25:54] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 21:25:54] Starting vehicles
+[2023-01-10 21:25:54] vehicles restarted successfully
+[2023-01-10 21:25:54] ERROR: vehicles\vehicles.lua:26: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 21:27:58] restart: Requested by Console
+[2023-01-10 21:27:58] restart: Resource restarting...
+[2023-01-10 21:27:58] Stopping vehicles
+[2023-01-10 21:27:58] Starting vehicles
+[2023-01-10 21:27:58] vehicles restarted successfully
+[2023-01-10 21:27:58] ERROR: vehicles\vehicles.lua:26: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 21:29:01] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2023-01-10 21:29:02] Server stopped!
+[2023-01-10 21:29:02] Stopping resources......
+[2023-01-10 21:29:02] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Revelator Development Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-01-10 21:29:12] Resources: 3 loaded, 0 failed
+[2023-01-10 21:29:12] Starting resources....
+[2023-01-10 21:29:12] ERROR: vehicles\vehicles.lua:32: exports: Call to non-running server resource (database) [string "?"]
+[2023-01-10 21:29:12] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-01-10 21:29:12] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-01-10 21:29:12] WARNING: <owner_email_address> not set
+[2023-01-10 21:29:12] Server started and is ready to accept connections!
+[2023-01-10 21:29:12] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-01-10 21:29:12] Type 'help' for a list of commands.
+[2023-01-10 21:29:12] Querying MTA master server... success! (Auto detected IP:156.223.66.190)
+[2023-01-10 21:29:19] Server minclientversion is now 1.5.9-9.21437.0
+[2023-01-10 21:29:19] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 21:29:20] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 21:30:21] restart: Requested by Console
+[2023-01-10 21:30:21] restart: Resource restarting...
+[2023-01-10 21:30:21] Stopping vehicles
+[2023-01-10 21:30:21] Starting vehicles
+[2023-01-10 21:30:21] vehicles restarted successfully
+[2023-01-10 21:30:21] ERROR: vehicles\vehicles.lua:26: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 21:30:31] restart: Requested by Console
+[2023-01-10 21:30:31] restart: Resource restarting...
+[2023-01-10 21:30:31] Stopping vehicles
+[2023-01-10 21:30:31] Starting vehicles
+[2023-01-10 21:30:31] vehicles restarted successfully
+[2023-01-10 21:30:31] ERROR: vehicles\vehicles.lua:26: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 21:31:48] restart: Requested by Console
+[2023-01-10 21:31:48] restart: Resource restarting...
+[2023-01-10 21:31:48] Stopping vehicles
+[2023-01-10 21:31:48] Starting vehicles
+[2023-01-10 21:31:48] vehicles restarted successfully
+[2023-01-10 21:31:48] ERROR: vehicles\vehicles.lua:26: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 21:32:04] restart: Requested by Console
+[2023-01-10 21:32:04] restart: Resource restarting...
+[2023-01-10 21:32:04] Stopping vehicles
+[2023-01-10 21:32:04] Starting vehicles
+[2023-01-10 21:32:04] vehicles restarted successfully
+[2023-01-10 21:32:13] restart: Requested by Console
+[2023-01-10 21:32:13] restart: Resource restarting...
+[2023-01-10 21:32:13] Stopping vehicles
+[2023-01-10 21:32:13] Starting vehicles
+[2023-01-10 21:32:13] vehicles restarted successfully
+[2023-01-10 21:38:00] QUIT: ramzy left the game [Quit]
+[2023-01-10 21:38:08] restart: Resource could not be found
+[2023-01-10 21:38:14] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2023-01-10 21:38:15] Server stopped!
+[2023-01-10 21:38:15] Stopping resources......
+[2023-01-10 21:38:15] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Revelator Development Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-01-10 21:38:46] Resources: 3 loaded, 0 failed
+[2023-01-10 21:38:46] Starting resources....
+[2023-01-10 21:38:46] ERROR: vehicles\vehicles.lua:40: exports: Call to non-running server resource (database) [string "?"]
+[2023-01-10 21:38:46] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-01-10 21:38:46] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-01-10 21:38:46] WARNING: <owner_email_address> not set
+[2023-01-10 21:38:46] Server started and is ready to accept connections!
+[2023-01-10 21:38:46] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-01-10 21:38:46] Type 'help' for a list of commands.
+[2023-01-10 21:38:47] Querying MTA master server... success! (Auto detected IP:156.223.66.190)
+[2023-01-10 21:38:54] Server minclientversion is now 1.5.9-9.21437.0
+[2023-01-10 21:38:54] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 21:38:55] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 21:39:12] ERROR: vehicles\vehicles.lua:19: attempt to call local 'db' (a userdata value)
+[2023-01-10 21:39:42] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2023-01-10 21:39:43] Server stopped!
+[2023-01-10 21:39:43] Stopping resources......
+[2023-01-10 21:39:43] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Revelator Development Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-01-10 21:40:23] Resources: 3 loaded, 0 failed
+[2023-01-10 21:40:23] Starting resources....
+[2023-01-10 21:40:23] ERROR: vehicles\vehicles.lua:40: exports: Call to non-running server resource (database) [string "?"]
+[2023-01-10 21:40:23] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-01-10 21:40:23] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-01-10 21:40:23] WARNING: <owner_email_address> not set
+[2023-01-10 21:40:23] Server started and is ready to accept connections!
+[2023-01-10 21:40:23] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-01-10 21:40:23] Type 'help' for a list of commands.
+[2023-01-10 21:40:24] Querying MTA master server... success! (Auto detected IP:156.223.66.190)
+[2023-01-10 21:40:34] Server minclientversion is now 1.5.9-9.21437.0
+[2023-01-10 21:40:34] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 21:40:34] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 21:41:05] ERROR: vehicles\vehicles.lua:17: attempt to index global 'result' (a nil value)
+[2023-01-10 21:41:49] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2023-01-10 21:41:51] Server stopped!
+[2023-01-10 21:41:51] Stopping resources......
+[2023-01-10 21:41:51] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Revelator Development Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-01-10 21:42:06] Resources: 3 loaded, 0 failed
+[2023-01-10 21:42:06] Starting resources....
+[2023-01-10 21:42:06] ERROR: vehicles\vehicles.lua:40: exports: Call to non-running server resource (database) [string "?"]
+[2023-01-10 21:42:06] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-01-10 21:42:06] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-01-10 21:42:06] WARNING: <owner_email_address> not set
+[2023-01-10 21:42:06] Server started and is ready to accept connections!
+[2023-01-10 21:42:06] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-01-10 21:42:06] Type 'help' for a list of commands.
+[2023-01-10 21:42:07] Querying MTA master server... success! (Auto detected IP:156.223.66.190)
+[2023-01-10 21:42:11] Server minclientversion is now 1.5.9-9.21437.0
+[2023-01-10 21:42:11] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 21:42:11] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 21:42:52] ACL: Denied 'ramzy' access to command 'restart'
+[2023-01-10 21:42:53] ACL: Denied 'ramzy' access to command 'restart'
+[2023-01-10 21:43:12] restart: Requested by Console
+[2023-01-10 21:43:12] restart: Resource restarting...
+[2023-01-10 21:43:12] Stopping vehicles
+[2023-01-10 21:43:12] Starting vehicles
+[2023-01-10 21:43:12] vehicles restarted successfully
+[2023-01-10 21:43:13] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 21:43:51] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2023-01-10 21:43:52] Server stopped!
+[2023-01-10 21:43:52] Stopping resources......
+[2023-01-10 21:43:52] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Revelator Development Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-01-10 21:44:02] Resources: 3 loaded, 0 failed
+[2023-01-10 21:44:02] Starting resources....
+[2023-01-10 21:44:02] ERROR: vehicles\vehicles.lua:40: exports: Call to non-running server resource (database) [string "?"]
+[2023-01-10 21:44:02] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-01-10 21:44:02] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-01-10 21:44:02] WARNING: <owner_email_address> not set
+[2023-01-10 21:44:02] Server started and is ready to accept connections!
+[2023-01-10 21:44:02] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-01-10 21:44:02] Type 'help' for a list of commands.
+[2023-01-10 21:44:03] Querying MTA master server... success! (Auto detected IP:156.223.66.190)
+[2023-01-10 21:44:11] Server minclientversion is now 1.5.9-9.21437.0
+[2023-01-10 21:44:11] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 21:44:12] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 21:44:24] restart: Requested by Console
+[2023-01-10 21:44:24] restart: Resource restarting...
+[2023-01-10 21:44:24] Stopping vehicles
+[2023-01-10 21:44:24] Starting vehicles
+[2023-01-10 21:44:24] vehicles restarted successfully
+[2023-01-10 21:44:24] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 21:49:35] ACL: Denied 'ramzy' access to command 'restart'
+[2023-01-10 21:49:39] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2023-01-10 21:49:39] ERROR: vehicles\vehicles.lua:17: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 21:49:45] WARNING: vehicles\vehicles.lua:9: dbExec failed; (5) database is locked
+[2023-01-10 21:51:51] restart: Requested by Console
+[2023-01-10 21:51:51] restart: Resource restarting...
+[2023-01-10 21:51:51] Stopping vehicles
+[2023-01-10 21:51:51] Starting vehicles
+[2023-01-10 21:51:51] vehicles restarted successfully
+[2023-01-10 21:51:59] ERROR: vehicles\vehicles.lua:17: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 21:52:30] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2023-01-10 21:52:31] Server stopped!
+[2023-01-10 21:52:31] Stopping resources......
+[2023-01-10 21:52:31] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Revelator Development Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2023-01-10 21:52:36] Resources: 3 loaded, 0 failed
+[2023-01-10 21:52:36] Starting resources....
+[2023-01-10 21:52:36] ERROR: vehicles\vehicles.lua:40: exports: Call to non-running server resource (database) [string "?"]
+[2023-01-10 21:52:36] WARNING: vehicles\vehicles.lua:41: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2023-01-10 21:52:36] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2023-01-10 21:52:36] WARNING: <owner_email_address> not set
+[2023-01-10 21:52:36] Server started and is ready to accept connections!
+[2023-01-10 21:52:36] To stop the server, type 'shutdown' or press Ctrl-C
+[2023-01-10 21:52:36] Type 'help' for a list of commands.
+[2023-01-10 21:52:37] Querying MTA master server... success! (Auto detected IP:156.223.66.190)
+[2023-01-10 21:53:28] Server minclientversion is now 1.5.9-9.21437.0
+[2023-01-10 21:53:28] CONNECT: ramzy connected (IP: 127.0.0.1  Serial: 7431683CDB1EABBFA50C63F9AC5A1FA4  Version: 1.5.9-9.21488.0)
+[2023-01-10 21:53:28] JOIN: ramzy joined the game (IP: 127.0.0.1)
+[2023-01-10 21:55:21] restart: Requested by Console
+[2023-01-10 21:55:21] restart: Resource restarting...
+[2023-01-10 21:55:21] Stopping vehicles
+[2023-01-10 21:55:21] Starting vehicles
+[2023-01-10 21:55:21] vehicles restarted successfully
+[2023-01-10 21:55:21] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 22:00:58] restart: Requested by Console
+[2023-01-10 22:00:58] restart: Resource restarting...
+[2023-01-10 22:00:58] Stopping vehicles
+[2023-01-10 22:00:58] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 22:00:58] Starting vehicles
+[2023-01-10 22:00:58] vehicles restarted successfully
+[2023-01-10 22:00:58] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 22:01:02] restart: Requested by Console
+[2023-01-10 22:01:02] restart: Resource restarting...
+[2023-01-10 22:01:02] Stopping vehicles
+[2023-01-10 22:01:02] ERROR: vehicles\vehicles.lua:51: attempt to call global 'getElementDate' (a nil value)
+[2023-01-10 22:01:02] Starting vehicles
+[2023-01-10 22:01:02] vehicles restarted successfully
+[2023-01-10 22:01:02] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 22:01:18] restart: Requested by Console
+[2023-01-10 22:01:18] restart: Resource restarting...
+[2023-01-10 22:01:18] Stopping vehicles
+[2023-01-10 22:01:18] ERROR: vehicles\vehicles.lua:51: attempt to call global 'getElementDate' (a nil value)
+[2023-01-10 22:01:18] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 22:01:18] Starting vehicles
+[2023-01-10 22:01:18] vehicles restarted successfully
+[2023-01-10 22:01:18] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 22:02:04] restart: Resource could not be found
+[2023-01-10 22:02:06] restart: Requested by Console
+[2023-01-10 22:02:06] restart: Resource restarting...
+[2023-01-10 22:02:06] Stopping vehicles
+[2023-01-10 22:02:06] Starting vehicles
+[2023-01-10 22:02:06] vehicles restarted successfully
+[2023-01-10 22:02:06] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 22:02:28] restart: Requested by Console
+[2023-01-10 22:02:28] restart: Resource restarting...
+[2023-01-10 22:02:28] Stopping vehicles
+[2023-01-10 22:02:28] Starting vehicles
+[2023-01-10 22:02:28] vehicles restarted successfully
+[2023-01-10 22:02:28] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 22:03:49] restart: Requested by Console
+[2023-01-10 22:03:49] restart: Resource restarting...
+[2023-01-10 22:03:49] Stopping vehicles
+[2023-01-10 22:03:49] Resource 'vehicles' changed, reloading and starting
+[2023-01-10 22:03:49] Starting vehicles
+[2023-01-10 22:03:49] vehicles restarted successfully
+[2023-01-10 22:03:49] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 22:03:58] restart: Requested by Console
+[2023-01-10 22:03:58] restart: Resource restarting...
+[2023-01-10 22:03:58] Stopping vehicles
+[2023-01-10 22:03:58] Starting vehicles
+[2023-01-10 22:03:58] vehicles restarted successfully
+[2023-01-10 22:03:58] ERROR: vehicles\vehicles.lua:34: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 22:04:35] restart: Requested by Console
+[2023-01-10 22:04:35] restart: Resource restarting...
+[2023-01-10 22:04:35] Stopping vehicles
+[2023-01-10 22:04:35] Starting vehicles
+[2023-01-10 22:04:35] vehicles restarted successfully
+[2023-01-10 22:04:39] restart: Requested by Console
+[2023-01-10 22:04:39] restart: Resource restarting...
+[2023-01-10 22:04:39] Stopping vehicles
+[2023-01-10 22:04:39] Starting vehicles
+[2023-01-10 22:04:39] vehicles restarted successfully
+[2023-01-10 22:04:59] restart: Requested by Console
+[2023-01-10 22:04:59] restart: Resource restarting...
+[2023-01-10 22:04:59] Stopping vehicles
+[2023-01-10 22:04:59] Starting vehicles
+[2023-01-10 22:04:59] vehicles restarted successfully
+[2023-01-10 22:06:13] ERROR: vehicles\vehicles.lua:17: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2023-01-10 22:07:02] restart: Requested by Console
+[2023-01-10 22:07:02] restart: Resource restarting...
+[2023-01-10 22:07:02] Stopping vehicles
+[2023-01-10 22:07:02] Starting vehicles
+[2023-01-10 22:07:02] vehicles restarted successfully
+[2023-01-10 22:10:21] restart: Requested by Console
+[2023-01-10 22:10:21] restart: Resource restarting...
+[2023-01-10 22:10:21] Stopping vehicles
+[2023-01-10 22:10:21] Starting vehicles
+[2023-01-10 22:10:21] vehicles restarted successfully
+[2023-01-10 22:17:57] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2023-01-10 22:17:58] Server stopped!
+[2023-01-10 22:17:58] Stopping resources.....
+[2023-01-10 22:17:58] ERROR: vehicles\vehicles.lua:46: exports: Call to non-running server resource (database) [string "?"]
+[2023-01-10 22:17:58] WARNING: vehicles\vehicles.lua:54: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2023-01-10 22:17:58] WARNING: vehicles\vehicles.lua:54: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]  [DUP x2]
+[2023-01-10 22:17:58] Closing SQLite3 database
